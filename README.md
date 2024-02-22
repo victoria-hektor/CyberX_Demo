@@ -1,2 +1,4 @@
 # CyberX_Demo
-Working Demo for Viva
+Working HTML Demo
+
+Download, right-click and view in browser, navigate through the pages
